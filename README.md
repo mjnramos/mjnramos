@@ -50,21 +50,21 @@ To contact me, or just to get more details about my research expertise, use one 
 
 
 <!-- Reference images -->
-[cienciavitae_ico]: icons/cienciavitae.png
-[django_ico]: icons/django.png
-[docker_ico]: icons/docker.png
-[git_ico]: icons/git.png
-[github_ico]: icons/github.png
-[jupyter_ico]: icons/jupyter.png
-[linkedin_ico]: icons/linkedin.png
-[mariadb_ico]: icons/mariadb.png
-[matplotlib_ico]: icons/matplotlib.png
-[mysql_ico]: icons/mysql.png
-[numpy_ico]: icons/numpy.png
-[orcid_ico]: icons/orcid.png
-[php_ico]: icons/php.png
-[postgresql_ico]: icons/postgresql.png
-[python_ico]: icons/python.png
-[r_ico]: icons/r.png
-[telegram_ico]: icons/telegram.png
-[twitter_ico]: icons/twitter.png
+[cienciavitae_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/cienciavitae.png
+[django_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/django.png
+[docker_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/docker.png
+[git_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/git.png
+[github_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/github.png
+[jupyter_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/jupyter.png
+[linkedin_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/linkedin.png
+[mariadb_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/mariadb.png
+[matplotlib_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/matplotlib.png
+[mysql_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/mysql.png
+[numpy_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/numpy.png
+[orcid_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/orcid.png
+[php_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/php.png
+[postgresql_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/postgresql.png
+[python_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/python.png
+[r_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/r.png
+[telegram_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/telegram.png
+[twitter_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/twitter.png
