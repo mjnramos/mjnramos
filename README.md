@@ -12,6 +12,7 @@ I am a Data Scientist almost finishing my PhD in biology. I successfully contrib
 
 ![Django][django_ico]
 ![Jupyter][jupyter_ico]
+![Pandas][pandas_ico]
 ![Numpy][numpy_ico]
 ![Matplotlib][matplotlib_ico]
 
@@ -62,6 +63,7 @@ To contact me, or just to get more details about my research expertise, use one 
 [mysql_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/mysql.png
 [numpy_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/numpy.png
 [orcid_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/orcid.png
+[pandas_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/pandas.png
 [php_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/php.png
 [postgresql_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/postgresql.png
 [python_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/python.png
