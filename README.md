@@ -1,16 +1,70 @@
-### Hi there 👋
+### Hi there, I'm Miguel and I'm glad to see you here!
 
-<!--
-**mjnramos/mjnramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Data Scientist almost finishing my PhD in biology. I successfully contributed, in the past 10 years, as a data scientist and bioinformatician on several research projects, helping in new outstanding findings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Proficient languages and tools
+
+![Python][python_ico]
+![PHP][php_ico]
+![R][r_ico]
+
+![Django][django_ico]
+![Jupyter][jupyter_ico]
+![Numpy][numpy_ico]
+![Matplotlib][matplotlib_ico]
+
+![PostgreSQL][postgresql_ico]
+![MariaDB][mariadb_ico]
+![MySQL][mysql_ico]
+
+![Git][git_ico]
+![GitHub][github_ico]
+
+![Docker][docker_ico]
+
+
+#### so... what's next?
+
+Now that I'm ending my PhD, I'm looking for new discoveries in data analysis and/or bioinformatics! So, how may I help?
+
+
+#### Reach me
+
+To contact me, or just to get more details about my research expertise, use one of the social networks below.
+
+[![Twitter][twitter_ico]][twitter_url]
+[![Linkedin][linkedin_ico]][linkedin_url]
+[![Telegram][telegram_ico]][telegram_url]
+[![CIÊNCIAVITAE][cienciavitae_ico]][cienciavitae_url]
+[![ORCID][orcid_ico]][orcid_url]
+
+
+<!-- Reference links -->
+[cienciavitae_url]: https://www.cienciavitae.pt/9A13-9410-5BDE
+[linkedin_url]: https://www.linkedin.com/in/mjnramos/
+[orcid_url]: https://orcid.org/0000-0001-5832-0945
+[telegram_url]: https://t.me/mjnramos
+[twitter_url]: https://twitter.com/migueljnramos
+
+
+<!-- Reference images -->
+[cienciavitae_ico]: icons/cienciavitae.png
+[django_ico]: icons/django.png
+[docker_ico]: icons/docker.png
+[git_ico]: icons/git.png
+[github_ico]: icons/github.png
+[jupyter_ico]: icons/jupyter.png
+[linkedin_ico]: icons/linkedin.png
+[mariadb_ico]: icons/mariadb.png
+[matplotlib_ico]: icons/matplotlib.png
+[mysql_ico]: icons/mysql.png
+[numpy_ico]: icons/numpy.png
+[orcid_ico]: icons/orcid.png
+[php_ico]: icons/php.png
+[postgresql_ico]: icons/postgresql.png
+[python_ico]: icons/python.png
+[r_ico]: icons/r.png
+[telegram_ico]: icons/telegram.png
+[twitter_ico]: icons/twitter.png
