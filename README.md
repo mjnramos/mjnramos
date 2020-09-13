@@ -3,6 +3,7 @@
 
 I am a Data Scientist almost finishing my PhD in biology. I successfully contributed, in the past 10 years, as a data scientist and bioinformatician on several research projects, helping in new outstanding findings.
 
+Check out my first implemented Django project at https://cafora.pt (oops, portuguese only... sorry!).
 
 #### Proficient languages and tools
 
