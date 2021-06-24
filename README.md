@@ -1,7 +1,7 @@
 ### Hi there, I'm Miguel and I'm glad to see you here!
 
 
-I am a Data Scientist almost finishing my PhD in biology. I successfully contributed, in the past 10 years, as a data scientist and bioinformatician on several research projects, helping in new outstanding findings.
+I am Bioinformatician with PhD in biology. I successfully contributed, in the past 10 years, as a data scientist and bioinformatician on several research projects, helping in new outstanding findings.
 
 Check out my first implemented Django project at https://cafora.pt (oops, portuguese only... sorry!).
 
@@ -27,18 +27,12 @@ Check out my first implemented Django project at https://cafora.pt (oops, portug
 ![Docker][docker_ico]
 
 
-#### so... what's next?
-
-Now that I'm ending my PhD, I'm looking for new discoveries in data analysis and/or bioinformatics! So, how may I help?
-
-
 #### Reach me
 
 To contact me, or just to get more details about my research expertise, use one of the social networks below.
 
 [![Twitter][twitter_ico]][twitter_url]
 [![Linkedin][linkedin_ico]][linkedin_url]
-[![Telegram][telegram_ico]][telegram_url]
 [![CIÊNCIAVITAE][cienciavitae_ico]][cienciavitae_url]
 [![ORCID][orcid_ico]][orcid_url]
 
@@ -47,7 +41,6 @@ To contact me, or just to get more details about my research expertise, use one 
 [cienciavitae_url]: https://www.cienciavitae.pt/9A13-9410-5BDE
 [linkedin_url]: https://www.linkedin.com/in/mjnramos/
 [orcid_url]: https://orcid.org/0000-0001-5832-0945
-[telegram_url]: https://t.me/mjnramos
 [twitter_url]: https://twitter.com/migueljnramos
 
 
