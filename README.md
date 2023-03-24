@@ -29,7 +29,7 @@ Check out my first implemented Django project at https://cafora.pt (oops, portug
 
 To contact me, or just to get more details about my research expertise, use one of the social networks below.
 
-[![Mastodon][mastodon_ico]][mastodon_url]
+<a rel="me" href="https://genomic.social/@mramos">![Mastodon][mastodon_ico]</a>
 [![Linkedin][linkedin_ico]][linkedin_url]
 [![CIÊNCIAVITAE][cienciavitae_ico]][cienciavitae_url]
 [![ORCID][orcid_ico]][orcid_url]
