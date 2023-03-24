@@ -1,7 +1,7 @@
 ### Hi there, I'm Miguel and I'm glad to see you here!
 
 
-I am a Data Scientist almost finishing my PhD in biology. I successfully contributed, in the past 10 years, as a data scientist and bioinformatician on several research projects, helping in new outstanding findings.
+I am Bioinformatician with PhD in biology. I successfully contributed, in the past 10 years, as a data scientist and bioinformatician on several research projects, helping in new outstanding findings.
 
 Check out my first implemented Django project at https://cafora.pt (oops, portuguese only... sorry!).
 
@@ -23,11 +23,6 @@ Check out my first implemented Django project at https://cafora.pt (oops, portug
 ![GitHub][github_ico]
 
 ![Docker][docker_ico]
-
-
-#### so... what's next?
-
-Now that I'm ending my PhD, I'm looking for new discoveries in data analysis and/or bioinformatics! So, how may I help?
 
 
 #### Reach me
