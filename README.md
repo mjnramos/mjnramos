@@ -8,8 +8,6 @@ Check out my first implemented Django project at https://cafora.pt (oops, portug
 #### Proficient languages and tools
 
 ![Python][python_ico]
-![PHP][php_ico]
-![R][r_ico]
 
 ![Django][django_ico]
 ![Jupyter][jupyter_ico]
@@ -36,9 +34,8 @@ Now that I'm ending my PhD, I'm looking for new discoveries in data analysis and
 
 To contact me, or just to get more details about my research expertise, use one of the social networks below.
 
-[![Twitter][twitter_ico]][twitter_url]
+[![Mastodon][mastodon_ico]][mastodon_url]
 [![Linkedin][linkedin_ico]][linkedin_url]
-[![Telegram][telegram_ico]][telegram_url]
 [![CIÊNCIAVITAE][cienciavitae_ico]][cienciavitae_url]
 [![ORCID][orcid_ico]][orcid_url]
 
@@ -47,8 +44,7 @@ To contact me, or just to get more details about my research expertise, use one 
 [cienciavitae_url]: https://www.cienciavitae.pt/9A13-9410-5BDE
 [linkedin_url]: https://www.linkedin.com/in/mjnramos/
 [orcid_url]: https://orcid.org/0000-0001-5832-0945
-[telegram_url]: https://t.me/mjnramos
-[twitter_url]: https://twitter.com/migueljnramos
+[mastodon_url]: https://genomic.social/@mramos
 
 
 <!-- Reference images -->
@@ -65,9 +61,6 @@ To contact me, or just to get more details about my research expertise, use one 
 [numpy_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/numpy.png
 [orcid_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/orcid.png
 [pandas_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/pandas.png
-[php_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/php.png
 [postgresql_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/postgresql.png
 [python_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/python.png
-[r_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/r.png
-[telegram_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/telegram.png
-[twitter_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/twitter.png
+[mastodon_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/mastodon.png
