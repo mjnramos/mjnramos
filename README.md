@@ -28,4 +28,4 @@ To contact me, or just to get more details about my research expertise, use one 
 [linkedin_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/linkedin.png
 [mastodon_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/mastodon.png
 [orcid_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/orcid.png
-[website_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/website.png
+[website_ico]: https://raw.githubusercontent.com/mjnramos/mjnramos/master/icons/website_small.png
